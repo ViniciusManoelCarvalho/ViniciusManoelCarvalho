@@ -7,7 +7,7 @@
 ## Sobre mim
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Segurança Cibernética. 
-- 💼 Trabalhando como Desenvolvedor Salesforce.
+- 💼 Trabalhando como Consultor/Desenvolvedor Salesforce.
 - 🌱 Aprendendo mais sobre Python e Inteligência Artificial.
 
 ## Minhas Skills
